@@ -2,7 +2,7 @@
 
 ## Projenin Amacı
 
-Bu proje, nesne yönelimli programlama (OOP) prensiplerini kullanarak temel bir yönetim uygulaması oluşturmayı amaçlar. Trendyol'un temel yapısından esinlenerek geliştirilen bu proje, CRUD (Create, Read, Update, Delete - Oluşturma, Okuma, Güncelleme, Silme) işlemlerini destekleyerek veri yönetimi için bir temel sağlar. Bu proje, OOP kavramlarını ve Windows Forms arayüzlerini öğrenmek veya pekiştirmek isteyen geliştiriciler için iyi bir başlangıç noktasıdır.
+Bu proje, nesne yönelimli programlama (OOP) prensiplerini kullanarak temel bir yönetim uygulaması oluşturmayı amaçlar. Trendyol'un temel yapısından esinlenerek geliştirilen bu proje, CRUD (Create, Read, Update, Delete - Oluşturma, Okuma, Güncelleme, Silme) işlemlerini destekleyerek veri yönetimi için bir temel sağlar.
 
 ## Projenin Kapsamı
 roje, aşağıdaki temel bileşenleri içerir:
